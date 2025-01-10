@@ -35,7 +35,7 @@ The script will output:
 - **Python**: The programming language used to write the script.
 - **Pandas**: For data manipulation and analysis.
 - **Matplotlib**: For creating visualizations (bar chart).
-  
+
 ## Project Files
 - `data.csv`: The input data containing sales per region.
 - `main.py`: The Python script containing the analysis logic.
@@ -44,4 +44,4 @@ The script will output:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT L

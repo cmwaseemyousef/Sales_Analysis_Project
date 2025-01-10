@@ -1,4 +1,6 @@
-# Sales Analysis Project
+# Sales Analysis Project  
+
+![Sales by Region](sales_by_region.png)  
 
 This project is a basic sales analysis application written in Python using `pandas` and `matplotlib`. The goal is to analyze sales data, calculate key metrics, and visualize the data.
 
@@ -13,6 +15,11 @@ The script reads a CSV file containing sales data, performs some basic analysis 
 - **Bar Chart**: Displays sales by region visually.
 - **Metrics Export**: Saves key metrics to a CSV file (`sales_metrics.csv`).
 - **Bar Chart Image**: Saves the bar chart as a PNG image (`sales_by_region.png`).
+
+## Visualization  
+Here’s the bar chart showing sales by region:  
+
+![Sales by Region](sales_by_region.png)
 
 ## Getting Started
 
@@ -44,4 +51,4 @@ The script will output:
 
 ## License
 
-This project is licensed under the MIT L
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
